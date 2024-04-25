@@ -1,0 +1,40 @@
+#root {
+  text-align: center;
+}
+
+#fetchButton {
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#fetchButton:hover {
+  background-color: rgb(255, 0, 238);
+}
+
+#title {
+  padding-right: 10px;
+  display: inline;
+}
+
+#divcontainer {
+  width: 50%;
+  margin: auto;
+  text-align: start;
+  margin-top: 20px;
+  padding: 10px;
+  box-shadow: 1px 4px 3px 2px rgb(185, 185, 201);
+  border-radius: 5px;
+  background-color: antiquewhite;
+}
+
+#userId {
+  display: block;
+  font-size: bold;
+  color: rgb(98, 0, 255);
+}
+#Id {
+  display: block;
+  font-size: bold;
+  color: red;
+}
